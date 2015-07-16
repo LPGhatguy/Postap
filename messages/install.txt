@@ -1,0 +1,16 @@
+Postap for Sublime Text 3
+	
+
+To activate the theme, add or replace your current theme settings with the code below.
+
+{
+	"theme": "postap.sublime-theme"
+}
+
+Optionally, also add
+
+{
+	"color_scheme": "postap.tmTheme"
+}
+
+Restart Sublime Text, and you're good to go!
